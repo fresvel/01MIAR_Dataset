@@ -74,4 +74,4 @@ Se aportan unas indicaciones a tener en cuenta a la hora de planificar y desarro
 
 ## Entrega
 
-Ejecutar jupyter lab en la raiz del proyecto, luego navegar a ids_ml, dentro se tiene los recursos en assets y el archivo de presentación con el nombre Actividad_Dataset.ipynb
+Ejecutar jupyter lab en la raiz del proyecto, luego navegar al directorio Actividad_Dataset, dentro se tiene los recursos en assets y el archivo de presentación con el nombre Actividad_Dataset.ipynb
